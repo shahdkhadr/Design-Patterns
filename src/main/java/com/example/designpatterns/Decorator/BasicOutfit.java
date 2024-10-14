@@ -1,5 +1,5 @@
 package com.example.designpatterns.Decorator;
-
+//concrete component
 public class BasicOutfit implements Clothes{
 
     @Override

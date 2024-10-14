@@ -1,5 +1,5 @@
 package com.example.designpatterns.Decorator;
-
+//ConcreteDecorator
 public class HatDecorator extends ClothesDecorator{
     public HatDecorator(Clothes clothes) {
         super(clothes);
